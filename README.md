@@ -5,6 +5,7 @@
 # https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3
 
 # PROBLEMS SOLVED: 10
+# language: C, C++
 
 # Problem	Ranking	Submission	        Date	     Run time
 # 100	    20657	  16327013	2015-10-25 09:57:39	0.289
