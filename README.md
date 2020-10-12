@@ -7,7 +7,7 @@
 # PROBLEMS SOLVED: 10
 # language: C, C++
 
-# Problem	Ranking	Submission	        Date	     Run time
+# ProblemID	Ranking	Submission	        Date	     Run time
 # 100	    20657	  16327013	2015-10-25 09:57:39	0.289
 # 136	    4931	  16601429	2015-12-18 12:10:01	0.000
 # 1124	  751	    16355555	2015-10-30 06:40:40	0.000
